@@ -1,0 +1,5 @@
+@charset "UTF-8";
+body h1 {
+    color:#F00000;
+    font-family:"Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
